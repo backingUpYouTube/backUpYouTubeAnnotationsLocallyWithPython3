@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzb_e5K683wIVhTsVCh0Mog9_KPgdMgJpdkj4sPP6sc2w-WY">
+<annotation id="annotation_2265739837" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyWjavxcGfqM&amp;a-type=1&amp;ei=NNwiXM3VPIX3VIzEvvgH&amp;a-v=ZvLCax9c2Hg&amp;l-class=1&amp;a-id=annotation_2265739837&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjNv97krrzfAhWFOxUKHQyiD38o-B0yAml2SPiw8_qxzbD5Zg">
+  <TEXT>Finale OST</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="71.72700" y="25.12700" w="27.33000" h="11.80300" t="0:00.000"/>
+      <rectRegion x="71.72700" y="25.12700" w="27.33000" h="11.80300" t="3:29.118"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16564776" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2265739837&amp;ei=NNwiXM3VPIX3VIzEvvgH&amp;feature=iv&amp;src_vid=ZvLCax9c2Hg&amp;v=yWjavxcGfqM" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3884256343" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbaV-6-oHnA8%23t%3D5m20s&amp;a-type=1&amp;ei=NNwiXM3VPIX3VIzEvvgH&amp;a-v=ZvLCax9c2Hg&amp;l-class=1&amp;a-id=annotation_3884256343&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjNv97krrzfAhWFOxUKHQyiD38o-B0yAml2SPiw8_qxzbD5Zg">
+  <TEXT>Remix by DM Dokuro</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.09700" y="43.26800" w="30.00100" h="25.97900" t="0:00.000"/>
+      <rectRegion x="69.09700" y="43.26800" w="30.00100" h="25.97900" t="3:29.118"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16564776" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3884256343&amp;ei=NNwiXM3VPIX3VIzEvvgH&amp;feature=iv&amp;src_vid=ZvLCax9c2Hg&amp;v=baV-6-oHnA8#t=5m20s" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_583941205" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5OLKOsuamw4&amp;a-type=1&amp;ei=NNwiXM3VPIX3VIzEvvgH&amp;a-v=ZvLCax9c2Hg&amp;l-class=1&amp;a-id=annotation_583941205&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjNv97krrzfAhWFOxUKHQyiD38o-B0yAml2SPiw8_qxzbD5Zg">
+  <TEXT>DM Dokuro&#39;s officially approved Undertale album &quot;The Underground Radio&quot;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.26000" y="74.36600" w="43.81900" h="22.63400" t="0:55.485"/>
+      <rectRegion x="56.26000" y="74.36600" w="43.81900" h="22.63400" t="1:05.940"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16564776" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_583941205&amp;ei=NNwiXM3VPIX3VIzEvvgH&amp;feature=iv&amp;src_vid=ZvLCax9c2Hg&amp;v=5OLKOsuamw4" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

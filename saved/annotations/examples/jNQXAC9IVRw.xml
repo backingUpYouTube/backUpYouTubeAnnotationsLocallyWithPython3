@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIz_nCt6y83wIVRrRVCh3xfAjRKPgdMgJpdkicqqH6guCF6owB">
+<annotation id="annotation_11152" type="text" style="popup" log_data="a-id=annotation_11152&amp;a-type=1&amp;xble=1&amp;a-v=jNQXAC9IVRw&amp;ei=vdkiXI-nEsbo1gLx-aGIDQ" itct="CAEQs-UBGP___________wEiEwjP-cK3rLzfAhVGtFUKHfF8CNEo-B0yAml2SJyqofqC4IXqjAE">
+  <TEXT>This clip had never been publicly shown before --- until, of course, it was publicly shown.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="5.55600" w="90.41700" h="17.22200" t="0:00:00.0"/>
+      <rectRegion x="5.62500" y="5.55600" w="90.41700" h="17.22200" t="0:00:07.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="13319742" fgColor="16777215" textSize="4.81426666666667" effects="textdropshadow">
+    <padding top="2.88856005669" left="2.16641998291" bottom="2.88856005669" right="2.88856005669"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_549933" type="text" style="popup" log_data="a-id=annotation_549933&amp;a-type=1&amp;xble=1&amp;a-v=jNQXAC9IVRw&amp;ei=vdkiXI-nEsbo1gLx-aGIDQ" itct="CAIQs-UBGP___________wEiEwjP-cK3rLzfAhVGtFUKHfF8CNEo-B0yAml2SJyqofqC4IXqjAE">
+  <TEXT>can you hear the goat? MEEEEEEEEEEEH!!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="30.00000" y="30.00000" w="40.00000" h="11.81900" t="0:00:14.00"/>
+      <rectRegion x="30.00000" y="30.00000" w="40.00000" h="11.81900" t="0:00:17.00"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>
